@@ -1,8 +1,10 @@
- # edrn
+edrn
+====
 
 Editor-assisted rename. Passes a list of filenames to the standard editor for easy mass renaming.
 
-## Usage
+Usage
+-----
 
 Call edrn with a list of filenames:
 
@@ -26,6 +28,7 @@ Save and close:
     The Barbarian - s03e03.mkv
     The Barbarian - s03e04 - Reign of the Black King.mp4
 
-## Licence
+Licence
+-------
 
 Copyright 2012 Sijmen Mulder <sjmulder@gmail.com>. Licensed under the 3-clause BSD licence.
